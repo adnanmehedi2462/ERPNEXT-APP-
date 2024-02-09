@@ -22,4 +22,4 @@ After installation, run the following commands to migrate and build:
 bench migrate
 bench build
 
-In this Markdown, `[Video Tutorial]` will appear as the clickable text. When someone clicks on it, it will open the provided URL (`https://drive.google.com/file/d/1CzkLW9_iJJhIj89urjVjnRkQBlf22mgd/view?usp=sharing`). Make sure to replace `<your_venv>` and `<site_name>` with actual values.
+In this Markdown, `[Video Tutorial]` will appear as the clickable text. When someone clicks on it, it will open the provided URL (`https://drive.google.com/file/d/1CzkLW9_iJJhIj89urjVjnRkQBlf22mgd/view?usp=sharing`). Make sure to replace `<your_venv>` and `<site_name>` with actual values
