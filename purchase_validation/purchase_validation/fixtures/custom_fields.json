@@ -1,0 +1,51 @@
+[
+    {
+        "doctype": "Custom Field",
+        "dt": "Purchase Order",
+        "module": "purchase_validation",
+        "name": "Purchase Order-expire_date",
+        "fieldname": "expire_date",
+        "fieldtype": "Date",
+        "label": "Expire Date",
+        "insert_after": "schedule_date",
+        "reqd": 1
+    },
+    {
+        "doctype": "Custom Field",
+        "dt": "Purchase Receipt",
+        "module": "purchase_validation",
+        "name": "Purchase Receipt-expire_date",
+        "fieldname": "expire_date",
+        "fieldtype": "Date",
+        "label": "Expire Date",
+        "insert_after": "posting_time",
+        "reqd": 1
+    },
+    {
+        "doctype": "Custom Field",
+        "dt": "Purchase Invoice",
+        "module": "purchase_validation",
+        "name": "Purchase Invoice-expire_date",
+        "fieldname": "expire_date",
+        "fieldtype": "Date",
+        "label": "Expire Date",
+        "insert_after": "posting_time",
+        "reqd": 0,
+        "hidden": 1,
+        "read_only": 0
+
+    },
+    {
+        "doctype": "Custom Field",
+        "dt": "Purchase Receipt Item",
+        "module": "purchase_validation",
+        "name": "Purchase Receipt Item-po_qty",
+        "fieldname": "po_qty",
+        "fieldtype": "int",
+        "label": "PO Qty",
+        "insert_after": "item_code",
+        "columns": 1
+    
+    }
+   
+]
