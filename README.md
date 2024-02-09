@@ -18,8 +18,10 @@
 
 After installation, run the following commands to migrate and build:
 
-```bash
 bench migrate
 bench build
 
-In this Markdown, `[Video Tutorial]` will appear as the clickable text. When someone clicks on it, it will open the provided URL (`https://drive.google.com/file/d/1CzkLW9_iJJhIj89urjVjnRkQBlf22mgd/view?usp=sharing`). Make sure to replace `<your_venv>` and `<site_name>` with actual values
+## Video
+Video Link : https://drive.google.com/file/d/1CzkLW9_iJJhIj89urjVjnRkQBlf22mgd/view?usp=sharing 
+<br>
+<a href="https://drive.google.com/file/d/1CzkLW9_iJJhIj89urjVjnRkQBlf22mgd/view?usp=sharing">Click here to watch the video</a>
